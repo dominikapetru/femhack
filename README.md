@@ -1,6 +1,6 @@
 # Hack the Markets
 
-Exploratory analysis about the historical information on the EUR - GBP and currency exchange rates.
+Exploratory analysis about the historical information on the exchange rates EUR - GBP.
 
 ## Data 
 Provided by Nuwe, period 3.1.2000 - 29.10.2019.<br>
@@ -22,6 +22,6 @@ Provided by Nuwe, period 3.1.2000 - 29.10.2019.<br>
 
 ## References:
 Economics observatory, https://www.economicsobservatory.com/how-has-brexit-affected-the-value-of-sterling<br>
-Expansion, https://www.expansion.com/economia/politica/brexit.html
-Euronews, https://www.euronews.com/2020/01/30/brexit-timeline-2016-2020-key-events-in-the-uk-s-path-from-referendum-to-eu-exit
-Investopedia, https://www.investopedia.com/articles/forex-currencies/070516/how-brexit-can-impact-euro-and-us-dollar.asp
+Expansion, https://www.expansion.com/economia/politica/brexit.html<br>
+Euronews, https://www.euronews.com/2020/01/30/brexit-timeline-2016-2020-key-events-in-the-uk-s-path-from-referendum-to-eu-exit<br>
+Investopedia, https://www.investopedia.com/articles/forex-currencies/070516/how-brexit-can-impact-euro-and-us-dollar.asp<br>
