@@ -15,8 +15,8 @@ Provided by Nuwe, period 3.1.2000 - 29.10.2019.<br>
 
 ## Questions:
 1. How was the evolution of exchange rate and its relationship to the Brexit events?<br>
-1. How was the evolution of RSI and Volatility during the studied perdiod of time?<br>
-2. Which events affected the most the exchange rate?<br>
+1. How was the evolution of RSI and Volatility during the studied period of time?<br>
+2. Which events affected the most the exchange rates?<br>
 3. How was affected the EUR-USD and GBP-USD exchange rate?<br>
 4. Is there a relationship between the value of GBP and the value of EUR?<br>
 
