@@ -10,7 +10,7 @@ Provided by Nuwe, period 3.1.2000 - 29.10.2019.<br>
 <b>Close</b> - Value at the end of the week when the stock exchange closed.<br>
 <b>RSI</b> - Relative value of EUR unit to GBP unit.<br>
 <b>EMA fast</b> - Exponential Moving Average value of 14 weeks.<br>
-<b>EMA slow - Exponential Moving Average value of 42 weeks.<br>
+<b>EMA slow</b> - Exponential Moving Average value of 42 weeks.<br>
 <b>Volatility</b> - Measure the intensity of changes in the price.<br>
 
 ## Questions:
