@@ -1,6 +1,6 @@
 # Hack the Markets
 
-Exploratory analysis about the historical information on the EUR - GBP and currency exchange rates.
+Exploratory analysis about the historical information on the exchange rates EUR - GBP.
 
 ## Data 
 Provided by Nuwe, period 3.1.2000 - 29.10.2019.<br>
