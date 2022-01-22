@@ -19,3 +19,7 @@ Provided by Nuwe, period 3.1.2000 - 29.10.2019.<br>
 3. How did this transition affected some important europian companies?<br>
 4. Why did Brexit make the pound less attractive?<br>
 5. What are the consequences of the fall in sterling?<br>
+
+## References:
+Economics observatory, https://www.economicsobservatory.com/how-has-brexit-affected-the-value-of-sterling<br>
+Expansion, https://www.expansion.com/economia/politica/brexit.html
